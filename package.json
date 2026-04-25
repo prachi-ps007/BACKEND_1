@@ -1,0 +1,19 @@
+{
+  "name": "backend_1",
+  "version": "1.0.0",
+  "description": "First time intro to Backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/prachi-ps007/BACKEND.git)"
+  },
+  "author": "Prachi Shrivastav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
